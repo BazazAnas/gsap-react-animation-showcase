@@ -1,3 +1,9 @@
+# Description
+
+An animation-focused website clone built with React and GSAP to practice advanced motion design.
+It highlights timeline-based animations, transitions, and interactive UI effects.
+
+
 # React + Vite
 
 This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
