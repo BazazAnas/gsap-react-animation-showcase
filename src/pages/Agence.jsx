@@ -28,7 +28,6 @@ const Agence = () => {
   ]
 
   useGSAP(function () {
-
     gsap.to(imageDivRef.current, {
       scrollTrigger: {
         trigger: imageDivRef.current,
@@ -53,8 +52,6 @@ const Agence = () => {
       }
     })
   })
-
-
   return (
     <div className='parent bg-black'>
       <div id='page1' className='py-1 '>
@@ -72,7 +69,6 @@ const Agence = () => {
         </div>
       </div>
       <div id='page2' className=" h-screen">
-
       </div>
     </div>
   )
